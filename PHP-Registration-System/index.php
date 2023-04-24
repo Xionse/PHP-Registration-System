@@ -2,7 +2,7 @@
     // Start a session to maintain user login state
     session_start();
     
-    // Include the necessary files
+    // Include/include the necessary files
     require_once('config.php');
     require_once('db.php');
     require_once('functions.php');
