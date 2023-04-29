@@ -10,7 +10,7 @@ This repository contains a PHP web application that allows users to register for
 
 To install and use this application, follow these steps:
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine. `git clone https://github.com/Xionse/PHP-Registration-System`
 2. Import the `database.sql` file into your MySQL database.
 3. Update the database credentials in `config.php`.
 4. Launch the application by navigating to the `index.php` file in your web browser.
