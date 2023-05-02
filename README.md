@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains a PHP web application that allows users to register for a new account, log in to their account, and view their profile. The registration form is equipped with form validation and *CAPTCHA* to prevent spam and ensure data integrity. The user authentication system uses password hashing and salt to ensure the security of user credentials.
+This repository contains a *PHP web application* that allows users to register for a new account, log in to their account, and view their profile. The registration form is equipped with form validation and *CAPTCHA* to prevent spam and ensure data integrity. The user authentication system uses password hashing and salt to ensure the security of user credentials.
 
 ## Installation
 
