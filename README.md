@@ -25,7 +25,7 @@ If you would like to contribute to this repository, feel free to submit a pull r
 
 ## Credits
 
-This web application was developed by [Your Name Here] as a project for [Your Course/Program Name Here].
+This web application was developed by Anthony Byansi as a project for .
 
 ## License
 
